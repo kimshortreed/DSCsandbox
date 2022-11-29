@@ -1,4 +1,4 @@
-# WORKSHOP Name goes here...
+# Introduction to _Inkscape_: A Free and Open-source Vector Graphics Editor
 ### UVic Libraries Digital Scholarship Commmons
 
 Link to workshop: https://uviclibraries.github.io/dsc-template/
