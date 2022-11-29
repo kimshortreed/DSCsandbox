@@ -23,11 +23,11 @@ The following table lists some popular graphic-design tools and their _general_ 
 
 | Software name | Purpose | Cost |
 | --------------- | --------------- | --------------- |
-| **Inkscape** | logos of any size, printable documents (posters, brochures, and flyers), digital art, diagrams, marketing materials for web and print  | Free |
-| **GIMP** (Gnu Image Manipulation Program) | photography and image manipulation, such as image optimization, colour and contrast editing, cropping, scaling, combining, and conversion (like changing a .png to .jpg) and many of the tools and features found in Adobe _Photoshop_. **Checkout our GIMP workshop: [Intro to Image Editing with GIMP (↪)](https://libcal.uvic.ca/calendar/dsc/gimp)**| Free |
-| **Photopea** | a free, online (no software installation required) photo editor which looks a lot like _Photoshop_ and has many of the same tools. Photopea is great for beginners. The free (ad-supported) version gives you up to 500mb of storage. Photopea also connects to Dropbox, OneDrive, or Google Drive. There is a paid version that gives you more storage and removes the ads. | Free & Paid (roughly 4.50 CDN per month)|
-| **Photoshop** | photography and image manipulation, like GIMP, but used by professional photographers  | roughly 30 CDN per month |
-| **Illustrator** | a vector-graphics program like _Inkscape_, but considered industry-standard for professional designers  | roughly 30 CDN per month |
+| **[Inkscape (↪)](https://inkscape.org/)** | logos of any size, printable documents (posters, brochures, and flyers), digital art, diagrams, marketing materials for web and print  | Free |
+| **[GIMP (↪)](https://www.gimp.org/)** (Gnu Image Manipulation Program) | photography and image manipulation, such as image optimization, colour and contrast editing, cropping, scaling, combining, and conversion (like changing a .png to .jpg) and many of the tools and features found in Adobe _Photoshop_. **Checkout our GIMP workshop: [Intro to Image Editing with GIMP (↪)](https://libcal.uvic.ca/calendar/dsc/gimp)**| Free |
+| **[Photopea (↪)](https://www.photopea.com/)** | a free, online (no software installation required) photo editor which looks a lot like _Photoshop_ and has many of the same tools. Photopea is great for beginners. The free (ad-supported) version gives you up to 500mb of storage. Photopea also connects to Dropbox, OneDrive, or Google Drive. There is a paid version that gives you more storage and removes the ads. | Free & Paid (roughly 4.50 CDN per month)|
+| **[Photoshop (↪)](https://www.adobe.com/ca/products/photoshop.html)** | photography and image manipulation, like GIMP, but used by professional photographers  | roughly 30 CDN per month |
+| **[Illustrator (↪)](https://www.adobe.com/ca/products/illustrator.html)** | a vector-graphics program like _Inkscape_, but considered industry-standard for professional designers  | roughly 30 CDN per month |
 
 ## How do I choose? 
 With so [many other graphic-design tools out there (↪)](https://www.pcmag.com/picks/the-best-graphic-design-software), it can feel difficult to choose. 
