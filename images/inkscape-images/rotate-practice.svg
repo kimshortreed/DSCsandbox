@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="198mm"
+   height="198mm"
+   viewBox="0 0 198 198.00001"
+   version="1.1"
+   id="svg293"
+   inkscape:version="1.2.1 (9c6d41e4, 2022-07-14)"
+   sodipodi:docname="rotate-practice.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview295"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.67124846"
+     inkscape:cx="196.6485"
+     inkscape:cy="346.36951"
+     inkscape:window-width="1320"
+     inkscape:window-height="715"
+     inkscape:window-x="46"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g14820" />
+  <defs
+     id="defs290">
+    <marker
+       style="overflow:visible"
+       id="marker13188"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path13186" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleStart"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-20.811776,-51.566883)">
+    <g
+       id="g14820"
+       transform="translate(6.7575269,8.0372324)">
+      <rect
+         style="fill:#000000;stroke:none;stroke-width:1.20552"
+         id="rect525"
+         width="73.005585"
+         height="90.485733"
+         x="144.22173"
+         y="-60.611851"
+         transform="matrix(0.51680528,0.85610297,-0.97921015,-0.2028484,0,0)" />
+      <ellipse
+         style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1.20298;stroke-dasharray:none;stroke-opacity:1"
+         id="path1040"
+         cx="172.51996"
+         cy="199.24185"
+         rx="6.8985081"
+         ry="6.8985085" />
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:8.46667px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#ff0000;stroke:none;stroke-width:1.323"
+         x="20.410767"
+         y="57.73085"
+         id="text1913"><tspan
+           sodipodi:role="line"
+           style="font-size:8.46667px;fill:#ff0000;stroke-width:1.323"
+           x="20.410767"
+           y="57.73085"
+           id="tspan12706">Click and hold on a corner two-way arrow and </tspan><tspan
+           sodipodi:role="line"
+           style="font-size:8.46667px;fill:#ff0000;stroke-width:1.323"
+           x="20.410767"
+           y="68.314186"
+           id="tspan12729">move in circular motion to &quot;rotate&quot; the square</tspan></text>
+      <circle
+         style="fill:none;fill-rule:evenodd;stroke:#827777;stroke-width:1.311;stroke-miterlimit:20;stroke-dasharray:5.244, 1.311;stroke-dashoffset:6.555;stroke-opacity:1;marker-mid:url(#marker13188);marker-end:url(#TriangleStart);opacity:0.44237918"
+         id="path12793"
+         cx="189.68939"
+         cy="26.29464"
+         r="75"
+         transform="rotate(47.615153)" />
+      <path
+         style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:1.51871;stroke-miterlimit:20;stroke-dasharray:none;stroke-dashoffset:6.555;stroke-opacity:1;marker-end:url(#marker13188)"
+         d="M 145.5054,72.480845 169.28368,183.04881"
+         id="path14972" />
+    </g>
+  </g>
+</svg>

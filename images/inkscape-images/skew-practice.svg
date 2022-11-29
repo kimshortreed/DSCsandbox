@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="200mm"
+   height="149mm"
+   viewBox="0 0 200 149"
+   version="1.1"
+   id="svg293"
+   inkscape:version="1.2.1 (9c6d41e4, 2022-07-14)"
+   sodipodi:docname="skew-practice.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview295"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.92854234"
+     inkscape:cx="329.54879"
+     inkscape:cy="273.00855"
+     inkscape:window-width="1320"
+     inkscape:window-height="715"
+     inkscape:window-x="46"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs290">
+    <marker
+       style="overflow:visible"
+       id="TriangleStart"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleStart-8"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-3" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-16.209983,-64.233894)">
+    <rect
+       style="fill:#000000;stroke:none;stroke-width:1.20552"
+       id="rect525"
+       width="73.005585"
+       height="90.485733"
+       x="218.21561"
+       y="169.94798"
+       transform="matrix(1,0,-0.6797201,0.7334716,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:8.46667px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#ff0000;stroke:none;stroke-width:1.323"
+       x="38.731098"
+       y="85.491768"
+       id="text1913"><tspan
+         sodipodi:role="line"
+         id="tspan1911"
+         style="font-size:8.46667px;fill:#ff0000;stroke-width:1.323"
+         x="38.731098"
+         y="85.491768">Click, hold, and drag a two-way</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:8.46667px;fill:#ff0000;stroke-width:1.323"
+         x="38.731098"
+         y="96.075104"
+         id="tspan1915">arrow to &quot;skew&quot; the square</tspan></text>
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:1.323;marker-end:url(#TriangleStart)"
+       d="m 92.534003,100.40508 c 8.849167,11.39306 8.849167,11.39306 8.849167,11.39306"
+       id="path487" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:0.843804;marker-end:url(#TriangleStart-8)"
+       d="m 116.43718,122.15373 c 9.88128,-0.065 9.88128,-0.065 9.88128,-0.065"
+       id="path487-9" />
+    <ellipse
+       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:1.05204;stroke-dasharray:none;stroke-opacity:1"
+       id="path1040"
+       cx="108.44885"
+       cy="122.09857"
+       rx="6.0699816"
+       ry="5.9960842" />
+  </g>
+</svg>
