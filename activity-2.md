@@ -108,3 +108,5 @@ Let's get practicing!
 We have now covered the four features of the **Selector** tool. The **Selector** tool is helpful when you want to arrange and scale objects roughly how you would like. _Inkscape_ has several ways to manipulate objects and with greater precision, which you can learn about in our other tutorials.  
 
 **All done ✓** You are now ready to move on to your next tutorial. 
+
+[NEXT STEP: _Inkscape_'s Canvas, Guides, and Layers](???.html){: .btn .btn-blue }
