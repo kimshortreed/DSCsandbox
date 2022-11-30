@@ -109,4 +109,4 @@ We have now covered the four features of the **Selector** tool. The **Selector**
 
 **All done ✓** You are now ready to move on to your next tutorial. 
 
-[NEXT STEP: _Inkscape_'s Canvas, Guides, and Layers](???.html){: .btn .btn-blue }
+[NEXT STEP: Choose an_Inkscape activity to complete](???.html){: .btn .btn-blue }
