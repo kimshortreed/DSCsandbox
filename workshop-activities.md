@@ -5,4 +5,6 @@ nav_order: 3
 has_children: true
 has_toc: true
 ---
-# Workshop Activities
+# _Inkscape_ Workshop Activities
+
+- Make a poster for a missing garden gnome 
