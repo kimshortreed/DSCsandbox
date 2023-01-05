@@ -71,8 +71,9 @@ Let's get started. The longer we wait the hungrier Sam will be when they get bac
 #### 2.3. Scale and move your image as needed and place it roughly in the centre of the page area 
 
 >##### Tips
-- We want to the image of Sam to be large, but we also need to allow for room above and below the image, so that we have room for text. 
-![Inkscape scale and move image](images/scale-and-move-sam.png)
+- We want to the image of Sam to be large, but we also need to allow for room above and below the image, so that we have room for text.
+
+>![Inkscape scale and move image](images/scale-and-move-sam.png)
 
 ## 3. Add title text above your image of Sam
 
@@ -98,11 +99,17 @@ Let's get started. The longer we wait the hungrier Sam will be when they get bac
 ##### 3.2.1. Between the title and the image of Sam, create a text box
 
 >##### Tips 
-- Select the **text objects tool** again, or ensure that it is already selected; the cursor should look like this: ![Inkscape text tool cursor](images/text-tool-cursor.png) 
-- Text boxes can be rescaled before or after you add text. 
-![Inkscape create text box](images/create-textbox.png)
-- After you release the mouse click, your text box boundaries will turn blue and you will see a cursor in the top-left of the text box. Now, you're ready to add text. 
-![Inkscape text box ready](images/textbox-ready.png)
+>- Select the **text objects tool** again, or ensure that it is already selected; the cursor should look like this: 
+>
+>![Inkscape text tool cursor](images/text-tool-cursor.png) 
+>
+>- Text boxes can be rescaled before or after you add text. 
+>
+>![Inkscape create text box](images/create-textbox.png)
+
+>- After you release the mouse click, your text box boundaries will turn blue and you will see a cursor in the top-left of the text box. Now, you're ready to add text.
+> 
+>![Inkscape text box ready](images/textbox-ready.png)
 
 #### 3.2.2. Add a paragraph of text to the text box
 
