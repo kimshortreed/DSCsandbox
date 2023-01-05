@@ -64,9 +64,9 @@ Let's get started. The longer we wait the hungrier Sam will be when they get bac
 > - Image-import **option 1**: in _Inkscape_'s **main menu** select **File > Import**.
 > - Image-import **option 2**: drag-and-drop images from your computer (from your Desktop or Downloads folder, for example) onto _Inkscape_'s **page area**.
 >- In the process of importing the image—using either **File > Import** or drag-and-drop—you will encounter a **bitmap image import** dialogue window: leave all the options alone and click on the **OK** button.
- 
-![Inkscape import image instructions](images/bitmap-image-import-dialogue.png) 
-
+ >
+>![Inkscape import image instructions](images/bitmap-image-import-dialogue.png) 
+>
 >- For the curious, [here is a good explanation (↪)](http://tavmjong.free.fr/INKSCAPE/MANUAL/html/File-Import.html) of the **bitmap image import** dialogue window's options and what they do.
 
 #### 2.3. Scale and move your image as needed and place it roughly in the centre of the page area 
@@ -174,11 +174,11 @@ Nearly there! Now we need to add some of those tear-off tabs with numbers on the
 ##### 4.3.1. In _Inkscape_'s main menu, select "Object > Fill and Stroke..."
 
 >##### Tips
-- **Optional keyboard shortcut**: hit **Shift + Ctrl (or Command) + F** on your keyboard to open the **Object > Fill and Stroke...**.
-- Mostly, the **Fill and Stroke...** options are used for boxes, circles, and lines, or "objects", that you draw using some of _Inkscape_'s tools that draw things like, you guessed it, boxes, circles, and lines.
-- The "fill" in **Fill and Stroke** controls options for things within the "stroke," or outside lines of a box or circle, for example. 
-- The "stroke" in **Fill and Stroke** controls options for the line(s) that make up a box or circle, for example. 
-- Think of "stroke" as the outer walls of a house and the "fill" as everything within the house. 
+>- **Optional keyboard shortcut**: hit **Shift + Ctrl (or Command) + F** on your keyboard to open the **Object > Fill and Stroke...**.
+>- Mostly, the **Fill and Stroke...** options are used for boxes, circles, and lines, or "objects", that you draw using some of _Inkscape_'s tools that draw things like, you guessed it, boxes, circles, and lines.
+>- The "fill" in **Fill and Stroke** controls options for things within the "stroke," or outside lines of a box or circle, for example. 
+>- The "stroke" in **Fill and Stroke** controls options for the line(s) that make up a box or circle, for example. 
+>- Think of "stroke" as the outer walls of a house and the "fill" as everything within the house. 
 
 ![Inkscape get to know fill and stroke editor](images/fill-and-stroke-editor.png)
 
@@ -187,9 +187,9 @@ Nearly there! Now we need to add some of those tear-off tabs with numbers on the
 ##### 4.3.2. In the "Fill and Stroke..." editor select the "Stroke paint" tab
 
 >##### Tips
-- You will know that the **Stroke paint** tab is selected because the tab will be underlined in blue. 
-
-![Inkscape get to know stroke paint tab](images/stroke-paint-tab.png)
+>- You will know that the **Stroke paint** tab is selected because the tab will be underlined in blue. 
+>
+>![Inkscape get to know stroke paint tab](images/stroke-paint-tab.png)
 
 ##### 4.3.3. In the "Stroke paint" options, select "Flat color"
 
@@ -247,7 +247,8 @@ Next, we will add some text to our tear-off strip...
 ##### 4.4.1. Select the "Selector tool" and then click _once_ on your contact-information text
 
 > ##### Tips
-> - If you do this step correctly, you should see the contact-information text surrounded in a dashed-line rectangle and straight arrows, as in the following example: 
+> - If you do this step correctly, you should see the contact-information text surrounded in a dashed-line rectangle and straight arrows, as in the following example:
+>  
 > ![Inkscape selected text example](images/selected-text-example.png)
 
 ##### 4.4.2. Click on the "Rotate clockwise" icon in the "Control tools bar"
