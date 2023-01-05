@@ -141,7 +141,7 @@ Nearly there! Now we need to add some of those tear-off tabs with numbers on the
 
 ### Background
 - This part of the tutorial gets slightly more complicated because we will need to create some dashed lines and rotated text, so that our contact information reads as vertical within each tab. 
-- To simplify things, we will create just one tab and then copy/paste it multiple times to make the others. 
+- To simplify things, we will create just one tear-off tab and then copy/paste it multiple times to make the others. 
 
 ### Practice 
 #### 4.1. In the main tool library, select the "Draw freehand lines" tool
