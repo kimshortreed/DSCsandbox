@@ -60,14 +60,14 @@ Let's get started. The longer we wait the hungrier Sam will be when they get bac
 #### 2.2. Import your gnome picture into _Inkscape_ using File > Import 
 
 >##### Tips
-- There are two ways to import images into _Inkscape_: 
- - Image-import **option 1**: in _Inkscape_'s **main menu** select **File > Import**.
- - Image-import **option 2**: drag-and-drop images from your computer (from your Desktop or Downloads folder, for example) onto _Inkscape_'s **page area**.
-- In the process of importing the image—using either **File > Import** or drag-and-drop—you will encounter a **bitmap image import** dialogue window: leave all the options alone and click on the **OK** button.
+>- There are two ways to import images into _Inkscape_: 
+> - Image-import **option 1**: in _Inkscape_'s **main menu** select **File > Import**.
+> - Image-import **option 2**: drag-and-drop images from your computer (from your Desktop or Downloads folder, for example) onto _Inkscape_'s **page area**.
+>- In the process of importing the image—using either **File > Import** or drag-and-drop—you will encounter a **bitmap image import** dialogue window: leave all the options alone and click on the **OK** button.
  
 ![Inkscape import image instructions](images/bitmap-image-import-dialogue.png) 
 
-- For the curious, [here is a good explanation (↪)](http://tavmjong.free.fr/INKSCAPE/MANUAL/html/File-Import.html) of the **bitmap image import** dialogue window's options and what they do.
+>- For the curious, [here is a good explanation (↪)](http://tavmjong.free.fr/INKSCAPE/MANUAL/html/File-Import.html) of the **bitmap image import** dialogue window's options and what they do.
 
 #### 2.3. Scale and move your image as needed and place it roughly in the centre of the page area 
 
@@ -96,7 +96,7 @@ Let's get started. The longer we wait the hungrier Sam will be when they get bac
 #### 3.2. Use the "text objects tool" to add a paragraph of information about Sam 
 
 >##### Tips
-- Note that the **text objects tool** can be used in two ways: (1) you can click on the **page area** and start typing, or (2) you can click, hold, and drag to create a text box. We will create a text box *before* we add our text. We do this so the the text looks like a paragraph, rather than one long line of text with no carriage returns. 
+>- Note that the **text objects tool** can be used in two ways: (1) you can click on the **page area** and start typing, or (2) you can click, hold, and drag to create a text box. We will create a text box *before* we add our text. We do this so the the text looks like a paragraph, rather than one long line of text with no carriage returns. 
 
 ##### 3.2.1. Between the title and the image of Sam, create a text box
 
@@ -108,7 +108,7 @@ Let's get started. The longer we wait the hungrier Sam will be when they get bac
 >- Text boxes can be rescaled before or after you add text. 
 >
 >![Inkscape create text box](images/create-textbox.png)
-
+>
 >- After you release the mouse click, your text box boundaries will turn blue and you will see a cursor in the top-left of the text box. Now, you're ready to add text.
 > 
 >![Inkscape text box ready](images/textbox-ready.png)
@@ -147,9 +147,9 @@ Nearly there! Now we need to add some of those tear-off tabs with numbers on the
 #### 4.1. In the main tool library, select the "Draw freehand lines" tool
 
 >##### Tips
-- The cursor for this tool looks like a little pencil. 
-
-![Inkscape freehand lines tool](images/draw-freehand-lines-tool-select.png)
+>- The cursor for this tool looks like a little pencil. 
+>
+>![Inkscape freehand lines tool](images/draw-freehand-lines-tool-select.png)
 
 #### 4.2. In the "page area", click once and move the mouse around in circles
 
@@ -194,11 +194,11 @@ Nearly there! Now we need to add some of those tear-off tabs with numbers on the
 ##### 4.3.3. In the "Stroke paint" options, select "Flat color"
 
 >##### Tips
-- You will know that the **Stroke paint** tab is selected because the tab will be underlined in blue. 
+>- You will know that the **Stroke paint** tab is selected because the tab will be underlined in blue. 
+>
+>![Inkscape add flat colour to stroke](images/stroke-paint-flat-color.png)
 
-![Inkscape add flat colour to stroke](images/stroke-paint-flat-color.png)
-
-- You should now see your vertical line appear on the **page area**, but we are going to modify it a little more... 
+- You should see your vertical line appear on the **page area**, but we are going to modify it a little more... 
 
 ##### 4.3.4. In the "Stroke paint" options, change the stroke colour to dark grey
 
@@ -238,7 +238,8 @@ Next, we will add some text to our tear-off strip...
 > - Whatever text you add will eventually have to fit within our little tear-off tabs, so do not add too much. 
 > - Choose whatever font you like, and an a font size that looks like it will work. We can always rescale it later. 
 
-- Optional sample text: Found Sam? Please email missgnomer@gnomail.com
+- Feel free to use this sample text for your Tear-off strip: 
+-- Found Sam? Please email missgnomer@gnomail.com
 - Here is an example of what the contact text should look like at this point in our process: 
 
 ![Contact text example](images/contact-text-example.png)
