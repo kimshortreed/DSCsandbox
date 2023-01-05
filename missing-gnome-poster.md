@@ -28,15 +28,15 @@ Let's get started. The longer we wait the hungrier Sam will be when they get bac
 #### 1.1. In _Inkscape_'s main menu, select File > New.  
 
 >##### Tips
-![Inkscape new file instructions](images/gnome-new-file-instructions.png)
+>![Inkscape new file instructions](images/gnome-new-file-instructions.png)
 >
 >**Optional keyboard shortcut**: hit **Ctrl (or Command) + N** on your keyboard to create a new, blank file.
 
 #### 1.2. Save your image file to your Desktop and name it `gnome-poster.svg`. 
 
 >##### Tips
-![Inkscape save as instructions](images/gnome-save-as-instructions.png)
-
+>![Inkscape save as instructions](images/gnome-save-as-instructions.png)
+>
 >- **Optional keyboard shortcut**: hit **Shift + Ctrl (or Command) + S** on your keyboard to initiate the "Save As" dialogue window.
 >- SVG is the default file type in _Inkscape_.
 
@@ -50,10 +50,11 @@ Let's get started. The longer we wait the hungrier Sam will be when they get bac
 #### 2.1. Save a gnome image from the [Pexels (↪)](https://www.pexels.com/search/gnomes/) website to your computer
 
 >##### Tips
-- Pexels is a website that offers free photos and videos for public use. 
-- Once you've chosen an image, you can **right-click on the image** and then use the **Save Image As** dialogue to save the image to your computer. 
-- As an alternative to using the **Save Image As** method, you can save the image using Pexels's **Free download** button to the top-right of the image. This feature of the Pexels's website allows you to save the image at your preferred size. We need an image that is neither too big nor too small, so **choose a "Medium" sized (1280 x 853 pixels) image**. 
-![Save Pexel image instructions](images/save-pexel-image.png) 
+>- Pexels is a website that offers free photos and videos for public use. 
+>- Once you've chosen an image, you can **right-click on the image** and then use the **Save Image As** dialogue to save the image to your computer. 
+>- As an alternative to using the **Save Image As** method, you can save the image using Pexels's **Free download** button to the top-right of the image. This feature of the Pexels's website allows you to save the image at your preferred size. We need an image that is neither too big nor too small, so **choose a "Medium" sized (1280 x 853 pixels) image**. 
+>
+>![Save Pexel image instructions](images/save-pexel-image.png) 
 
 
 #### 2.2. Import your gnome picture into _Inkscape_ using File > Import 
@@ -71,8 +72,8 @@ Let's get started. The longer we wait the hungrier Sam will be when they get bac
 #### 2.3. Scale and move your image as needed and place it roughly in the centre of the page area 
 
 >##### Tips
-- We want to the image of Sam to be large, but we also need to allow for room above and below the image, so that we have room for text.
-
+>- We want to the image of Sam to be large, but we also need to allow for room above and below the image, so that we have room for text.
+>
 >![Inkscape scale and move image](images/scale-and-move-sam.png)
 
 ## 3. Add title text above your image of Sam
@@ -85,9 +86,10 @@ Let's get started. The longer we wait the hungrier Sam will be when they get bac
 #### 3.1. Use the "text objects tool" to add the following title text above your image of Sam: "Missing Garden Gnome" 
 
 >##### Tips
-- The **text objects tool** allows you to add text anywhere on the **page area**.
-- You will know that **text objects tool** is selected when you see the pointer change to look like this: ![Inkscape text tool cursor](images/text-tool-cursor.png)
-- Once you have selected the **text objects tool**, click on the page area wherever you like and you should see a blinking cursor (the kind you would see in many word-processing programs), which indicates that you are ready to start typing. 
+>- The **text objects tool** allows you to add text anywhere on the **page area**.
+>- You will know that **text objects tool** is selected when you see the pointer change to look like this: 
+>- ![Inkscape text tool cursor](images/text-tool-cursor.png)
+>- Once you have selected the **text objects tool**, click on the page area wherever you like and you should see a blinking cursor (the kind you would see in many word-processing programs), which indicates that you are ready to start typing. 
 
 ![Inkscape add a title](images/add-title-above-image.png)
 
@@ -114,10 +116,11 @@ Let's get started. The longer we wait the hungrier Sam will be when they get bac
 #### 3.2.2. Add a paragraph of text to the text box
 
 >##### Tips
-- Remember that text boxes can be rescaled before or after you add text. 
-- Optionally, as you did for the title (see 3.1.), change the font, this time to Arial > Normal > 12 pt. 
-- To rescale the textbox, select the **text objects tool** and then click, hold, and drag the little square to the bottom-right of the text box.
-![Inkscape resize text box](images/resize-textbox.png)
+>- Remember that text boxes can be rescaled before or after you add text. 
+>- Optionally, as you did for the title (see 3.1.), change the font, this time to Arial > Normal > 12 pt. 
+>- To rescale the textbox, select the **text objects tool** and then click, hold, and drag the little square to the bottom-right of the text box.
+>
+>![Inkscape resize text box](images/resize-textbox.png)
 
 - Feel free to get creative with your information about Sam. Perhaps your Sam has some distinguishing features or habits that will help your neighbours identify them. There is no right or wrong with this content! 
 - You are also welcome to copy/paste the following blurb about Sam:
@@ -129,7 +132,6 @@ Sam the garden gnome went missing last Saturday afternoon. It is possible that S
 **By this stage in this tutorial your missing gnome poster should look something like this:**
 
 ![Inkscape review work to this point](images/time-to-review-poster.png)
-
 
 Nearly there! Now we need to add some of those tear-off tabs with numbers on them, so that your neighbours can call you if they left their phone at home, or if they have only a land line!
 
@@ -152,19 +154,20 @@ Nearly there! Now we need to add some of those tear-off tabs with numbers on the
 #### 4.2. In the "page area", click once and move the mouse around in circles
 
 >##### Tips
-- The cursor for this tool looks like a little pencil. 
-- Thing as the stop you clicked as the anchor point: as you move the mouse around a red line will appear between the anchor point and the pencil. 
-- Moving away from the anchor point will make the red line longer and moving it closer will make the red line shorter. 
+>- The cursor for this tool looks like a little pencil. 
+>- Thing as the stop you clicked as the anchor point: as you move the mouse around a red line will appear between the anchor point and the pencil. 
+>- Moving away from the anchor point will make the red line longer and moving it closer will make the red line shorter. 
 
 ![Inkscape freehand lines tool initial click demo](images/draw-freehand-lines-initial-click-demo.png)
 
 #### 4.3. Use the  "Draw freehand lines" tool to draw a straight, vertical line roughly halfway between the gnome picture and the bottom of the page
 
 >##### Tips
-- You could try moving the **Draw freehand lines** pencil around until you see a vertical line, but it's difficult draw a _perfectly_ vertical line by hand. Fortunately, _Inkscape_ has a way to make perfectly straight lines...
-- Hold down **Ctrl (or Command)** as you move the mouse around _slowly_ and notice what happens: you will see the red line hold position perfectly at various points, such as exactly horizontal, or at 45°, or at at vertical, which is what we want. 
-- Once you have a vertical line at the length and position you want, click again to create your line. 
-![Inkscape vertical line demo](images/vertical-line-demo.png)
+>- You could try moving the **Draw freehand lines** pencil around until you see a vertical line, but it's difficult draw a _perfectly_ vertical line by hand. Fortunately, _Inkscape_ has a way to make perfectly straight lines...
+>- Hold down **Ctrl (or Command)** as you move the mouse around _slowly_ and notice what happens: you will see the red line hold position perfectly at various points, such as exactly horizontal, or at 45°, or at at vertical, which is what we want. 
+>- Once you have a vertical line at the length and position you want, click again to create your line. 
+>
+>![Inkscape vertical line demo](images/vertical-line-demo.png)
 
 <span style="color:red">**IMPORTANT**</span>: **you may not actually see a line at this point**, and this is because we need to tell _Inkscape_ what style of line we want, which is the next step...
 
@@ -200,12 +203,14 @@ Nearly there! Now we need to add some of those tear-off tabs with numbers on the
 ##### 4.3.4. In the "Stroke paint" options, change the stroke colour to dark grey
 
 >##### Tips
-- There are a number of ways to change the colours of things in _Inkscape_, but we are going to use the **Color Wheel**. 
-- Make sure that your line is selected, using the **Select and transform objects** select tool, or the **Stroke paint** options interface may not appear.
-- To reveal the **Color Wheel**, click on the **Color Wheel** expander button/arrow:
-![Inkscape Color Wheel expander button](images/color-wheel-expander-button.png)
-- You should see the **Colour Wheel** interface: 
-![Color Wheel expander demo](images/color-wheel-demo.png)
+>- There are a number of ways to change the colours of things in _Inkscape_, but we are going to use the **Color Wheel**. 
+>- Make sure that your line is selected, using the **Select and transform objects** select tool, or the **Stroke paint** options interface may not appear.
+>- To reveal the **Color Wheel**, click on the **Color Wheel** expander button/arrow:
+>
+>![Inkscape Color Wheel expander button](images/color-wheel-expander-button.png)
+>- You should see the **Colour Wheel** interface: 
+>
+>![Color Wheel expander demo](images/color-wheel-demo.png)
 
 - In the **Color Wheel** circle, move the little white circle around until you find a colour that looks grey to you. This need not be perfect! As long as the colour is not black, it should work for our project. 
 
@@ -218,6 +223,7 @@ Nearly there! Now we need to add some of those tear-off tabs with numbers on the
 - In the **Fill and Stroke** editor, select the **Stroke style** tab and change the following settings: 
 	- **Width: 2 px** (note that the default measurement is in millimetres, or mm)
 	- **Dashes: Pattern 4 1** (note that the Pattern number value will not appear until you select a dashed line; note also the space between the 4 and the 1)
+
 ![Inkscape Width and dashes values](images/width-dashes-values.png)
 
 You should now see a dashed line in your **page area** that looks something like this: 
@@ -257,13 +263,13 @@ Next, we will add some text to our tear-off strip...
 ### 4.5. Clone the tear-off tabs 
 
 >##### Tips
-- We will use the **Select tool** to move our vertical dashed line and vertical text into place, then we will group and then clone the one tear-off tab to create as many as we need to fill the bottom of the page.
+>- We will use the **Select tool** to move our vertical dashed line and vertical text into place, then we will group and then clone the one tear-off tab to create as many as we need to fill the bottom of the page.
 
 #### 4.5.1. Use the "Select tool" to arrange the vertical dashed line and the contact information (the tear-away tab) to near the bottom left of the page area
 
 >##### Tips
-- Use the **Select tool** to arrange the dashed line and the contact text until they look like they are spaced appropriately. There is no right or wrong with this step. Try to arrange them until they look good to you. 
-- You can also use the **Select tool** to scale either the the dashed line the contact text, in order to get them to fit together better, visually.
+>- Use the **Select tool** to arrange the dashed line and the contact text until they look like they are spaced appropriately. There is no right or wrong with this step. Try to arrange them until they look good to you. 
+>- You can also use the **Select tool** to scale either the the dashed line the contact text, in order to get them to fit together better, visually.
 
 - Here is an example of how to arrange the dashed line and the contact text so they are spaced relatively evenly: 
 
@@ -272,8 +278,8 @@ Next, we will add some text to our tear-off strip...
 #### 4.5.2. Use the "Select tool" to select and "group" the dashed line and the contact text
 
 >##### Tips
-- _Inkscape_ has a **group** feature that allows you to turn two or more objects into one object, and back again. This is handy in cases like our dashed line and contact text: we have lined things up the way we want and groping them together will allow us to move them around as one object, so that we do not have to arrange them again.  
-- To **group** objects, click to the outside of both objects you want to (you can even click outside the **page area**), then hold the mouse click and drag a box around the objects you want to group together. 
+>- _Inkscape_ has a **group** feature that allows you to turn two or more objects into one object, and back again. This is handy in cases like our dashed line and contact text: we have lined things up the way we want and groping them together will allow us to move them around as one object, so that we do not have to arrange them again.  
+>- To **group** objects, click to the outside of both objects you want to (you can even click outside the **page area**), then hold the mouse click and drag a box around the objects you want to group together. 
 
 ![Inkscape selecting multiple objects](images/select-dashed-line-and-contact-text.png)
 
@@ -310,14 +316,14 @@ Now the we have our objects selected, we need to make them become a single objec
 ### 4.6. Arrange the tear-off tabs using "Align and Distribute"
 
 >##### Tips
-- _Inkscape_ has  an **Align and Distribute** feature that allows you to arrange (align) and place (distribute) objects on the **page area** in various ways. 
-- **Align and Distribute** is a very helpful tool because it can arrange objects perfectly, relative to other objects or the **page area**. Generally speaking, it's a gloriously perfect tool for spatial and alignment perfectionists. 
+>- _Inkscape_ has  an **Align and Distribute** feature that allows you to arrange (align) and place (distribute) objects on the **page area** in various ways. 
+>- **Align and Distribute** is a very helpful tool because it can arrange objects perfectly, relative to other objects or the **page area**. Generally speaking, it's a gloriously perfect tool for spatial and alignment perfectionists. 
 
 #### 4.6.1. Use the "Selector tool" to draw a selection box around all of the tear-off tabs
 
 >##### Tips
-- Be careful to select _only_ the tear-off tabs and nothing else, such as the image above them. 
-- Remember to use **CTRL + Z** (or Edit > Undo in _Inkscape_'s main menu) as needed if things do not work out on the first try!
+>- Be careful to select _only_ the tear-off tabs and nothing else, such as the image above them. 
+>- Remember to use **CTRL + Z** (or Edit > Undo in _Inkscape_'s main menu) as needed if things do not work out on the first try!
 
 ![Inkscape select multiple objects](images/drag-select-tear-away-tabs.png) 
 
@@ -330,7 +336,7 @@ With your tabs now all selected, it's time to use the **Align and Distribute** f
 #### 4.7. Open "Align and Distribute"
 
 >##### Tips
-- The **Align and Distribute** may icon may be buried in the **Commands bar** (the menu bar at the right of _Inkscape_'s interface. 
+>- The **Align and Distribute** may icon may be buried in the **Commands bar** (the menu bar at the right of _Inkscape_'s interface. 
 
 ![Inkscape open align and distribute dialogue](images/open-align-and-distribute.png)
 
@@ -343,14 +349,14 @@ Note the number of options available and that under the tab name of **Align and 
 #### 4.8. "Align and Distribute" your tear-off tabs
 
 >##### Tips
-- Make sure that you have selected all the tear-off tabs (see 4.6.1., above). 
-- When you first start with **Align and Distribute**, expect to use CTRL + Z a lot! It can take a while to get a feel for it. 
-- You can hover your mouse over any of the icons in the **Align and Distribute** dialogue (or any _Inkscape_ tool icon) for a few seconds and a [tooltip (↪)](https://en.wikipedia.org/wiki/Tooltip) will appear to tell you its name. 
+>- Make sure that you have selected all the tear-off tabs (see 4.6.1., above). 
+>- When you first start with **Align and Distribute**, expect to use CTRL + Z a lot! It can take a while to get a feel for it. 
+>- You can hover your mouse over any of the icons in the **Align and Distribute** dialogue (or any _Inkscape_ tool icon) for a few seconds and a [tooltip (↪)](https://en.wikipedia.org/wiki/Tooltip) will appear to tell you its name. 
 
 ##### 4.8.1. Click on the following "Distribute" button: Distribute horizontally with even horizontal gaps
 
 >##### Tips
-- This will make the horizontal spaces between the tear-off tabs equidistant. 
+>- This will make the horizontal spaces between the tear-off tabs equidistant. 
 
 **Before:**
 
@@ -363,7 +369,7 @@ Note the number of options available and that under the tab name of **Align and 
 ##### 4.8.1. Click on the following "Align" button: Align top edges
 
 >##### Tips
-- This will make the tear-off tabs align at the exact same height, in this case based on the average of all the top edges within our our selection box. 
+>- This will make the tear-off tabs align at the exact same height, in this case based on the average of all the top edges within our our selection box. 
 
 **Before:**
 
@@ -376,12 +382,12 @@ Note the number of options available and that under the tab name of **Align and 
 #### 4.9. Align your collection of tear-off tabs
 
 >##### Tips
-- You can use the **Selector tool** to move things around by eye, or lean on your newfound skills with **Align and Distribute**!
+>- You can use the **Selector tool** to move things around by eye, or lean on your newfound skills with **Align and Distribute**!
 
 ##### 4.9.1. Group the tear-off tabs into a single object
 
 >##### Tips
-- As you did before (see 4.5.3.), group the tear-off tabs to become one object, which will allow you to align the tear-off tabs all at once. 
+>- As you did before (see 4.5.3.), group the tear-off tabs to become one object, which will allow you to align the tear-off tabs all at once. 
 
 ##### 4.9.2. Use the Align tool to "Centre on a vertical axis" the tear-off tabs, "Relative to: Page"
 
