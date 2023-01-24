@@ -61,8 +61,8 @@ Let's get started. The longer we wait the hungrier Sam will be when they get bac
 
 >##### Tips
 >- There are two ways to import images into _Inkscape_: 
-> - Image-import **option 1**: in _Inkscape_'s **main menu** select **File > Import**.
-> - Image-import **option 2**: drag-and-drop images from your computer (from your Desktop or Downloads folder, for example) onto _Inkscape_'s **page area**.
+>   - Image-import **option 1**: in _Inkscape_'s **main menu** select **File > Import**.
+>   - Image-import **option 2**: drag-and-drop images from your computer (from your Desktop or Downloads folder, for example) onto _Inkscape_'s **page area**.
 >- In the process of importing the image—using either **File > Import** or drag-and-drop—you will encounter a **bitmap image import** dialogue window: leave all the options alone and click on the **OK** button.
  >
 >![Inkscape import image instructions](images/bitmap-image-import-dialogue.png) 
