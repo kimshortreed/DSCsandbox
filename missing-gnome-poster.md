@@ -239,8 +239,7 @@ Next, we will add some text to our tear-off strip...
 > - Whatever text you add will eventually have to fit within our little tear-off tabs, so do not add too much. 
 > - Choose whatever font you like, and an a font size that looks like it will work. We can always rescale it later. 
 
-- Feel free to use this sample text for your Tear-off strip: 
--- Found Sam? Please email missgnomer@gnomail.com
+- Feel free to use this sample text for your Tear-off strip: Found Sam? Please email missgnomer@gnomail.com
 - Here is an example of what the contact text should look like at this point in our process: 
 
 ![Contact text example](images/contact-text-example.png)
