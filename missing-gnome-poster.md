@@ -175,10 +175,11 @@ Nearly there! Now we need to add some of those tear-off tabs with numbers on the
 
 >##### Tips
 >- **Optional keyboard shortcut**: hit **Shift + Ctrl (or Command) + F** on your keyboard to open the **Object > Fill and Stroke...**.
->- Mostly, the **Fill and Stroke...** options are used for boxes, circles, and lines, or "objects", that you draw using some of _Inkscape_'s tools that draw things like, you guessed it, boxes, circles, and lines.
->- The "fill" in **Fill and Stroke** controls options for things within the "stroke," or outside lines of a box or circle, for example. 
->- The "stroke" in **Fill and Stroke** controls options for the line(s) that make up a box or circle, for example. 
->- Think of "stroke" as the outer walls of a house and the "fill" as everything within the house. 
+>- Mostly, the **Fill and Stroke...** options are used for boxes, circles, and lines, or "objects" that you draw using some of _Inkscape_'s tools that draw things like, you guessed it, boxes, circles, and lines.
+>- Think of "stroke" as the outer walls of a house and the "fill" as everything within the house.  
+>- The "stroke" in **Fill and Stroke** controls options for the line(s) that make up the outside lines of a box or circle, for example. 
+>- The "fill" in **Fill and Stroke** controls options for things within the "stroke," or the space within a box or circle, for example.
+
 
 ![Inkscape get to know fill and stroke editor](images/fill-and-stroke-editor.png)
 
@@ -189,14 +190,14 @@ Nearly there! Now we need to add some of those tear-off tabs with numbers on the
 >##### Tips
 >- You will know that the **Stroke paint** tab is selected because the tab will be underlined in blue. 
 >
->![Inkscape get to know stroke paint tab](images/stroke-paint-tab.png)
+>![Inkscape add flat colour to stroke](images/stroke-tab-with-underline.png)
 
 ##### 4.3.3. In the "Stroke paint" options, select "Flat color"
 
 >##### Tips
 >- You will know that the **Stroke paint** tab is selected because the tab will be underlined in blue. 
 >
->![Inkscape add flat colour to stroke](images/stroke-paint-flat-color.png)
+>![Inkscape add flat colour to stroke](images/stroke-select-flat-color.png)
 
 - You should see your vertical line appear on the **page area**, but we are going to modify it a little more... 
 
