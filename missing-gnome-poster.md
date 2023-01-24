@@ -88,7 +88,7 @@ Let's get started. The longer we wait the hungrier Sam will be when they get bac
 >##### Tips
 >- The **text objects tool** allows you to add text anywhere on the **page area**.
 >- You will know that **text objects tool** is selected when you see the pointer change to look like this: 
->- ![Inkscape text tool cursor](images/text-tool-cursor.png)
+>![Inkscape text tool cursor](images/text-tool-cursor.png)
 >- Once you have selected the **text objects tool**, click on the page area wherever you like and you should see a blinking cursor (the kind you would see in many word-processing programs), which indicates that you are ready to start typing. 
 
 ![Inkscape add a title](images/add-title-above-image.png)
@@ -155,7 +155,7 @@ Nearly there! Now we need to add some of those tear-off tabs with numbers on the
 
 >##### Tips
 >- The cursor for this tool looks like a little pencil. 
->- Thing as the stop you clicked as the anchor point: as you move the mouse around a red line will appear between the anchor point and the pencil. 
+>- As you move the mouse around, a red line will appear between the anchor point and the pencil. 
 >- Moving away from the anchor point will make the red line longer and moving it closer will make the red line shorter. 
 
 ![Inkscape freehand lines tool initial click demo](images/draw-freehand-lines-initial-click-demo.png)
@@ -164,12 +164,12 @@ Nearly there! Now we need to add some of those tear-off tabs with numbers on the
 
 >##### Tips
 >- You could try moving the **Draw freehand lines** pencil around until you see a vertical line, but it's difficult draw a _perfectly_ vertical line by hand. Fortunately, _Inkscape_ has a way to make perfectly straight lines...
->- Hold down **Ctrl (or Command)** as you move the mouse around _slowly_ and notice what happens: you will see the red line hold position perfectly at various points, such as exactly horizontal, or at 45°, or at at vertical, which is what we want. 
+>- Hold down **Ctrl (or Command)** as you move the mouse around _slowly_ and notice what happens: you will see the red line hold position perfectly at various points, such as exactly horizontal, or at 45°, or exactly vertical, which is what we want. 
 >- Once you have a vertical line at the length and position you want, click again to create your line. 
 >
 >![Inkscape vertical line demo](images/vertical-line-demo.png)
 
-<span style="color:red">**IMPORTANT**</span>: **you may not actually see a line at this point**, and this is because we need to tell _Inkscape_ what style of line we want, which is the next step...
+**<mark>IMPORTANT</mark>: you may not actually see a line at this point**, and this is because we need to tell _Inkscape_ what style of line we want, which is the next step...
 
 ##### 4.3.1. In _Inkscape_'s main menu, select "Object > Fill and Stroke..."
 
