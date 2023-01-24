@@ -195,7 +195,7 @@ Nearly there! Now we need to add some of those tear-off tabs with numbers on the
 ##### 4.3.3. In the "Stroke paint" options, select "Flat color"
 
 >##### Tips
->- You will know that the **Stroke paint** tab is selected because the tab will be underlined in blue. 
+>- "Flat" colour in means that the colour will be solid, as opposed to a gradient (a transition from one colour to another, for example) or a pattern, like dots or lines, for example. 
 >
 >![Inkscape add flat colour to stroke](images/stroke-select-flat-color.png)
 
