@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Getting Started 
-nav_order: 3
+nav_order: 5
 ---
 
 # Make a poster for a missing garden gnome
@@ -427,3 +427,6 @@ Note the number of options available and that under the tab name of **Align and 
 Now that you have a PDF of your poster for Sam, you can print it off and start posting. Imagine how hungry Sam is now after waiting this long for us to make a poster! 
 
 But, it was worth the wait because if Sam goes wandering again you have the skills to make a new poster in _Inkscape_. 
+
+[NEXT STEP: TBD](<!-- this link will need to be added once this tutorial is published-->){: .btn .btn-blue }
+
