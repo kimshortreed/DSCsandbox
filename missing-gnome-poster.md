@@ -96,7 +96,7 @@ Let's get started. The longer we wait the hungrier Sam will be when they get bac
 #### 3.2. Use the "text objects tool" to add a paragraph of information about Sam 
 
 >##### Tips
->- Note that the **text objects tool** can be used in two ways: (1) you can click on the **page area** and start typing, or (2) you can click, hold, and drag to create a text box. We will create a text box *before* we add our text. We do this so the the text looks like a paragraph, rather than one long line of text with no carriage returns. 
+>- Note that the **text objects tool** can be used in two ways: (1) you can click on the **page area** and start typing, or (2) you can click, hold, and drag to create a text box. We will create a text box *before* we add our text. We do this so that the text looks like a paragraph, rather than one long line of text with no carriage returns. 
 
 ##### 3.2.1. Between the title and the image of Sam, create a text box
 
@@ -117,7 +117,7 @@ Let's get started. The longer we wait the hungrier Sam will be when they get bac
 
 >##### Tips
 >- Remember that text boxes can be rescaled before or after you add text. 
->- Optionally, as you did for the title (see 3.1.), change the font, this time to Arial > Normal > 12 pt. 
+>- Optionally, as you did for the title (see 3.1.), change the font, this time to **Arial > Normal > 12 pt**. 
 >- To rescale the textbox, select the **text objects tool** and then click, hold, and drag the little square to the bottom-right of the text box.
 >
 >![Inkscape resize text box](images/resize-textbox.png)
@@ -129,7 +129,7 @@ Sam the garden gnome went missing last Saturday afternoon. It is possible that S
 
 ![Inkscape time to review logo](images/time-to-review-logo.png)
 
-**By this stage in this tutorial your missing gnome poster should look something like this:**
+**Your missing gnome poster should now look something like this:**
 
 ![Inkscape review work to this point](images/time-to-review-poster.png)
 
@@ -190,12 +190,12 @@ Nearly there! Now we need to add some of those tear-off tabs with numbers on the
 >##### Tips
 >- You will know that the **Stroke paint** tab is selected because the tab will be underlined in blue. 
 >
->![Inkscape add flat colour to stroke](images/stroke-tab-with-underline.png)
+>![Inkscape review underlined stroke feature tab](images/stroke-tab-with-underline.png)
 
 ##### 4.3.3. In the "Stroke paint" options, select "Flat color"
 
 >##### Tips
->- "Flat" colour in means that the colour will be solid, as opposed to a gradient (a transition from one colour to another, for example) or a pattern, like dots or lines, for example. 
+>- "Flat" colour in means that the colour will be solid, as opposed to a gradient (a transition from one colour to another) or a pattern, like dots or lines, for example. 
 >
 >![Inkscape add flat colour to stroke](images/stroke-select-flat-color.png)
 
@@ -266,23 +266,23 @@ Here is an example of what the contact text should look like at this point in ou
 ### 4.5. Clone the tear-off tabs 
 
 >##### Tips
->- We will use the **Select tool** to move our vertical dashed line and vertical text into place, then we will group and then clone the one tear-off tab to create as many as we need to fill the bottom of the page.
+>- We will use the **Selector tool** to move our dashed line and text into place. Then, we will group the line and text together to create a completed tear-off tab. Finally, we will clone our first tear-off tab to create as many as we need for the bottom of the page.
 
-#### 4.5.1. Use the "Select tool" to arrange the vertical dashed line and the contact information (the tear-away tab) to near the bottom left of the page area
+#### 4.5.1. Use the "Selector tool" to arrange the vertical dashed line and the contact information (the tear-away tab) to near the bottom left of the page area
 
 >##### Tips
->- Use the **Select tool** to arrange the dashed line and the contact text until they look like they are spaced appropriately. There is no right or wrong with this step. Try to arrange them until they look good to you. 
->- You can also use the **Select tool** to scale either the the dashed line the contact text, in order to get them to fit together better, visually.
+>- Use the **Selector tool** to arrange the dashed line and the contact text until they look like they are spaced appropriately. There is no right or wrong with this step. Try to arrange them until they look good to you. 
+>- You can also use the **Selector tool** to scale either the the dashed line the contact text, in order to get them to fit together better, visually.
 
 - Here is an example of how to arrange the dashed line and the contact text so they are spaced relatively evenly: 
 
 ![Inkscape arrange dashed lines](images/tear-off-tab-arrange-dashed-line-and-text.png)
 
-#### 4.5.2. Use the "Select tool" to select and "group" the dashed line and the contact text
+#### 4.5.2. Use the "Selector tool" to select and "group" the dashed line and the contact text
 
 >##### Tips
->- _Inkscape_ has a **group** feature that allows you to turn two or more objects into one object, and back again. This is handy in cases like our dashed line and contact text: we have lined things up the way we want and groping them together will allow us to move them around as one object, so that we do not have to arrange them again.  
->- To **group** objects, click to the outside of both objects you want to (you can even click outside the **page area**), then hold the mouse click and drag a box around the objects you want to group together. 
+>- _Inkscape_ has a **group** feature that allows you to turn two or more objects into one object, and back again. This is handy in cases like our dashed line and contact text: we have lined things up the way we want and grouping them together will allow us to move them around as one object, so that we do not have to arrange them again.  
+>- To **group** objects, use the **Selector** to drag a box around the objects you want to group together. 
 
 ![Inkscape selecting multiple objects](images/select-dashed-line-and-contact-text.png)
 
@@ -308,7 +308,7 @@ Now the we have our objects selected, we need to make them become a single objec
 #### 4.5.4 Select your grouped object and copy/paste it until you have enough to fill the bottom of the poster page
 
 ##### Tips
->- In overall terms, you will select the object once and then paste it a bunch of times. You will see the objects stack on top of each other, and this is normal. Once you have a bunch of objects, use the **Selector tool** to separate them and arrange them roughly across the bottom of the poster page.  
+>- In overall terms, you will select the object once and then paste it a bunch of times. You will see the objects stack on top of each other. Once you have a bunch of objects, use the **Selector tool** to separate them and arrange them roughly across the bottom of the poster page.  
 >**Optional keyboard shortcut**: hit **Ctrl (or Command) + C** on your keyboard to **copy** objects and **Ctrl (or Command) + V** on your keyboard to **paste** it. 
 >- For now, arrange the copied objects as best you can using the **Selector tool** and eyeballing them. We will make them more precise soon. 
 
@@ -339,7 +339,7 @@ With your tabs now all selected, it's time to use the **Align and Distribute** f
 #### 4.7. Open "Align and Distribute"
 
 >##### Tips
->- The **Align and Distribute** may icon may be buried in the **Commands bar** (the menu bar at the right of _Inkscape_'s interface. 
+>- The **Align and Distribute** may icon may be buried in the **Commands bar** (the menu bar at the right of _Inkscape_'s interface). 
 
 ![Inkscape open align and distribute dialogue](images/open-align-and-distribute.png)
 
@@ -347,7 +347,7 @@ Here's what the **Align and Distribute** tool looks like in the **Docking area**
 
 ![Inkscape align and distribute dialogue in dock](images/align-and-distribute-in-dock.png)
 
-Note the number of options available and that under the tab name of **Align and Distribute** are three sub-tabs: **Align**, **Grid**, and **Circular**. For this tutorial, we will remain where we are, on the **Align** sub-tab.
+Note the number of options available and that **Align and Distribute** has three sub-tabs: **Align**, **Grid**, and **Circular**. For this tutorial, we will remain where we are, on the **Align** sub-tab.
 
 #### 4.8. "Align and Distribute" your tear-off tabs
 
@@ -385,7 +385,7 @@ Note the number of options available and that under the tab name of **Align and 
 #### 4.9. Align your collection of tear-off tabs
 
 >##### Tips
->- You can use the **Selector tool** to move things around by eye, or lean on your newfound skills with **Align and Distribute**!
+>- You can use the **Selector tool** to move things around by eye, or get more precise using **Align and Distribute**.
 
 ##### 4.9.1. Group the tear-off tabs into a single object
 
