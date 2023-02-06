@@ -5,7 +5,7 @@ nav_order: 4
 parent: Workshop Activities
 ---
 
-# Using _Inkscape_'s Selector Tool
+# _Inkscape_'s Selector Tool
 
 We are starting with the **Selector** tool because you will be using this for almost everything you make in _Inkscape_, especially moving objects around on the **page area**.
 
@@ -37,8 +37,8 @@ Let's get practicing!
 
 >#### Tips
 >- Left click and drag in any direction to make a square to your desired size. 
->- The proportions of the squares (or rectangles) do not matter at this point, as we just need some objects to play with. 
->- Release left click when you are happy with your square' size and repeat the process until you have drawn three squares. 
+>- The proportions of the squares (or rectangles) do not matter at this point, as we just need some objects to work with. 
+>- Release left click when you are happy with your square's size and repeat the process until you have drawn three squares. 
 
 ![Inkscape three squares example](images/three-squares-example.png)
 
@@ -63,13 +63,14 @@ Let's get practicing!
 >![Inkscape selector tool location](images/selector-tool-location.png)
 >
 >- **Optional keyboard shortcut**: hit **S** on your keyboard.
->- You will know that the **Selector** tool is active because the cursor will change to a pointer arrow: ![Inkscape selector tool cursor](images/selector-tool-cursor.png).
+>- You will know that the **Selector** tool is active because the cursor will change to a pointer arrow:<br/>
+>![Inkscape selector tool cursor](images/selector-tool-cursor.png).
 
 #### **2.2.** On one of the squares, click and hold move it around the page area. 
 
 >#### Tips
->- **Click** within the body any of **your squares** and move them around the **page area** anywhere you like. 
->- Release the left-click hold to stop moving the square(s). 
+>- **Click** within the body any of your squares and move them around the **page area** anywhere you like. 
+>- Release the left-click hold to stop moving the square(s).<br/>
 
 ![Inkscape move object practice](images/selector-move.png)
 
@@ -79,7 +80,7 @@ Let's get practicing!
 >- When you click on a square you will notice that two-way-arrows appear around the outside edges of the square ![Inkscape selector tool cursor](images/two-way-arrow.png). 
 >- You can **click and hold on any one of the arrows** and then slide the square bigger and smaller.
 >- Notice that the **corner arrows** scale a square's size but also change its vertical and horizontal proportions. 
->- The **edge arrows** (the top, right, bottom, and left arrows) also scale, but only in one plane at at time.   
+>- The **edge arrows** (the top, right, bottom, and left arrows) also control scale, but only in one plane at at time.   
 >- Release the mouse hold to stop scaling. 
 
 ![Inkscape scale object practice](images/rescaled-squares.png)
@@ -105,7 +106,7 @@ Let's get practicing!
 
 >#### Tips 
 >- Release the mouse hold to stop rotating.
-<- You can **rotate** using any of the curved two-way arrows. 
+>- You can **rotate** using any of the curved two-way arrows. 
 
 ![Inkscape rotate object practice](images/rotate-practice.png)
 
@@ -113,4 +114,4 @@ We have now covered the four features of the **Selector** tool. The **Selector**
 
 **All done ✓** You are now ready to move on to your next tutorial. 
 
-[NEXT STEP: Choose an _Inkscape_ activity to complete]([???.html](https://github.com/kimshortreed/DSCsandbox/blob/main/workshop-activities.md)){: .btn .btn-blue }
+[NEXT STEP: Choose an _Inkscape_ activity to complete](<!-- this link will need to be added once this tutorial is published-->){: .btn .btn-blue }
